@@ -1,13 +1,9 @@
-#Three lines to make our compiler able to draw:
-import sys
-import matplotlib
-matplotlib.use('Agg')
-
 import pandas as pd
 import matplotlib.pyplot as plt
-
 df = pd.read_csv('data.csv')
-
-df.plot()
-
+plt.figure(figsize=(12, 6))
+for column in df.columns:
+    plt.plot(df[column], label=column)
 plt.show()
+
+
