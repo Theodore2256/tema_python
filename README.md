@@ -47,20 +47,22 @@ Necessary files:
        by running these comands: in the terminal
          navigate to the folder where u have the files  and run this command :
          
- for Windows: 
+for Windows: 
+This will make a virtual environment folder
+ 
          
-         python -m venv your_name_for_the_venv       This will make a virtual environment folder  
+    python -m venv your_name_for_the_venv  
          
-         to activate the virtual environment  you have to run this command :
+to activate the virtual environment  you have to run this command :
          
                   your_name_for_the_venv\Scripts\activate.bat
                   
                   
-        then to install pandas run this command :
+then to install pandas run this command :
         
             pip install pandas 
             
-        then to install matplotlib run this command :
+then to install matplotlib run this command :
         
            pip install matplotlib    
          
@@ -69,16 +71,16 @@ for mac/linux:
         python3 -m venv your_name_for_the_venv   this will make a virtual environment
          
                  
-      to activate the virtual environment  you have to run this command :
+to activate the virtual environment  you have to run this command :
          
                   source your_name_for_the_venv/bin/activate  
                   
                   
-        then to install pandas run this command :
+then to install pandas run this command :
         
             pip install pandas 
             
-        then to install matplotlib run this command :
+then to install matplotlib run this command :
         
            pip install matplotlib 
            
