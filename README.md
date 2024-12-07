@@ -75,7 +75,7 @@ for mac/linux:
 
 
 
-        python3 -m venv your_name_for_the_venv   this will make a virtual environment
+        python3 -m venv your_name_for_the_venv   
          
                  
 to activate the virtual environment  you have to run this command :
