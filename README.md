@@ -48,6 +48,7 @@ Necessary files:
          navigate to the folder where u have the files  and run this command :
          
 for Windows: 
+
 This will make a virtual environment folder
  
          
