@@ -47,7 +47,9 @@ Necessary files:
        by running these comands: in the terminal
          navigate to the folder where u have the files  and run this command :
          
-for Windows: 
+For Windows: 
+
+
 
 This will make a virtual environment folder
  
@@ -67,7 +69,11 @@ then to install matplotlib run this command :
         
            pip install matplotlib    
          
+         
+         
 for mac/linux:
+
+
 
         python3 -m venv your_name_for_the_venv   this will make a virtual environment
          
