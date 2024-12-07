@@ -24,7 +24,9 @@ Run: To run this code you run this command in the terminal/cmd python3 employee.
    2------------------------
 Code: 
 
-    This Python file polts the data from the CSV file  The first figure plots all the data  then the second figure plots the first 5 lines with all the columns the third figure plots the first 15 lines with 2 columns (Puls and Durata)
+    This Python file polts the data from the CSV file  The first figure plots all the data
+    
+      then the second figure plots the first 5 lines with all the columns the third figure plots the first 15 lines with 2 columns (Puls and Durata)
     line 1--the import for the modules
     
     line 6--using the pandas function read_csv  i rad from the data.csv file into the variable df
@@ -39,7 +41,8 @@ Code:
 Necessary files: 
 
      This file needs 2 modules to run (pandas and matplotlib) 
-     To make it easy you could make a virtual environment (venv) on your machine in the folder you should have python file and the data.cvs and the folder containing the modules. You can make this venv by running these comands: in the terminal
+     To make it easy you could make a virtual environment (venv) on your machine in the folder you should have python file and the
+      data.cvs and the folder containing the modules. You can make this venv by running these comands: in the terminal
          navigate to the folder where u have the files  and run this command :
          
  for Windows: 
