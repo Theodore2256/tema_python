@@ -44,9 +44,7 @@ Necessary files:
      This file needs 2 modules to run (pandas and matplotlib) 
      To make it easy you could make a virtual environment (venv) on your machine in the folder you should have python
       file and the data.cvs and the folder containing the modules. You can make this venv 
-      
        by running these comands: in the terminal
-       
          navigate to the folder where u have the files  and run this command :
          
  for Windows: 
