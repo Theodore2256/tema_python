@@ -19,7 +19,7 @@
             
            manager nr=5
            
-Run: To run this code you run this command in the terminal/cmd python3 employee.py
+Run: To run this code you run this command in the terminal/cmd python employee.py
     
    2------------------------
 Code: 
@@ -58,7 +58,7 @@ This will make a virtual environment folder
          
 to activate the virtual environment  you have to run this command :
          
-                  your_name_for_the_venv\Scripts\activate.bat
+      your_name_for_the_venv\Scripts\activate.bat
                   
                   
 then to install pandas run this command :
