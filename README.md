@@ -19,7 +19,7 @@
             
            manager nr=5
            
-Run: To run this code you run this command in the terminal/cmd python employee.py
+Run: To run this code you run this command in the terminal/cmd      python employee.py
     
    2------------------------
 Code: 
